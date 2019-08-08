@@ -3,6 +3,7 @@
 	"displayName": "Visual Studio Code Extension with IP-Symcon Stubs",
 	"version": "1.0.0",
 	"publisher": "symcongmbh",
+	"icon": "icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/paresy/vscode-completion"
