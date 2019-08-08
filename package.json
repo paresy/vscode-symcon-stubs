@@ -1,7 +1,7 @@
 {
 	"name": "vscode-symcon-stubs",
-	"displayName": "Visual Studio Code Extension with IP-Symcon Stubs",
-	"version": "1.0.0",
+	"displayName": "Extension for IP-Symcon",
+	"version": "1.0.1",
 	"publisher": "symcongmbh",
 	"icon": "icon.png",
 	"repository": {
